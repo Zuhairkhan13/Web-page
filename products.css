@@ -1,0 +1,71 @@
+body{
+
+    background-image: url(BG.jpg) ;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+  }
+  .BOOK1{
+    position: absolute;
+    margin-top: 15vh;
+  }
+  .BOOK2{
+    position: absolute;
+    margin-top: 15vh;
+    margin-left: 50vh;
+  }
+  .BOOK3{
+    position: absolute;
+    margin-top: 15vh;
+    margin-left: 100vh;
+  }
+  .BOOK4{
+    position: absolute;
+    margin-top: 15vh;
+    margin-left: 150vh;
+  }
+  .zk{
+    position: absolute;
+    margin-top: 3%;
+    font-size: small;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(25, 0, 250);
+    margin-left: 18vh;
+    
+
+  }
+ ul{
+    
+    position: absolute;
+    top: 0;
+    margin-left : 37%;
+    list-style: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px ;
+       
+  }
+  li{
+    float: left;   
+  }
+  a{
+    display: block;
+    padding: 0 28px;
+    text-decoration: none;
+    color: rgb(8, 24, 240)
+  
+  }
+  a:hover{
+    background-color: rgb(49, 187, 211);
+  }
+  .bottom{
+    position: absolute;
+    bottom: -19px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(25, 0, 250);
+  }
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

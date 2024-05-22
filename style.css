@@ -1,0 +1,104 @@
+body{
+
+    background-image: url(BG.jpg) ;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+  }
+  .zk{
+    position: absolute;
+    margin-top: 3%;
+    font-size: small;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(25, 0, 250);
+    margin-left: 18vh;
+    
+
+  }
+  div{
+    position: absolute;
+    top: 20px;
+    background-image: url(cm.png) ;
+    height: 600px;
+    width: 1200px;
+    background-size: 520px;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+    
+    
+  }
+  h1{
+    font-size: 500% ;
+    margin-left: 10vh;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(10, 137, 255);
+    height: 25%;
+    
+  }
+  h2{
+    font-size: 180%;
+    margin-left: 10vh;
+    margin-top: 0vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(91, 201, 140);
+    height: 10%;
+    
+  }
+  
+  h3{
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 5px;
+    width: 150px;
+    padding: 0 20px;
+    font-size: 150%;
+    margin-left: 12vh;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua ; 
+    color: rgb(55, 83, 83);    
+  }
+  .border{
+    color: aquamarine;
+  }
+  ul{
+    
+    position: absolute;
+    top: 0;
+    margin-left : 37%;
+    list-style: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px ;
+       
+  }
+  li{
+    float: left;   
+  }
+  a{
+    display: block;
+    padding: 0 28px;
+    text-decoration: none;
+    color: rgb(8, 24, 240)
+  
+  }
+  a:hover{
+    background-color: rgb(49, 187, 211);
+  }
+  
+  .fa {
+    margin-top: 0px;
+    padding: 50px;
+    font-size: 100px;
+    width: 10px;
+    text-align: center;
+    text-decoration: none;
+    height: 10px; 
+  
+  }
+.bottom{
+  position: absolute;
+  bottom: -2px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(25, 0, 250);
+}
